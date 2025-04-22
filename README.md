@@ -12,7 +12,7 @@ Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com T
 ## 🚀 Tecnologias & Ferramentas
 
 ### Back-end  
-- PHP (Laravel, Symfony)  
+- PHP (Laravel, Symfony)  <Angular />
 - Java (Spring Boot)  
 - SQL (MySQL, PostgreSQL)  
 
