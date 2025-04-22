@@ -1,5 +1,6 @@
 
-# 👋 Olá! Eu sou Jacqueline Hernandes - TiJacque  
+![TiJacque](https://i.imgur.com/zDQz4i4.gif)
+# 👋 Olá! Eu sou Jacqueline Hernandes
 ### Backend Developer | PHP & Java | Full-Stack com Front-End Moderno
 
 💡 Desenvolvedor back-end com foco em performance, segurança e boas práticas.  
@@ -36,19 +37,3 @@ Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com T
 - [LinkedIn](https://www.linkedin.com/in/hernandesjacque/)
 - Email: ti.jacque@gmail.com
 
-
-
-<!--
-**jacquelinesantana/jacquelinesantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
