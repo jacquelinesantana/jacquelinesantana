@@ -1,5 +1,5 @@
 
-![TiJacque](https://i.imgur.com/zDQz4i4.gif)
+![TiJacque](https://i.imgur.com/h5aSc9h.png)
 # 👋 Olá! Eu sou Jacqueline Hernandes
 ### Backend Developer | PHP & Java | Full-Stack com Front-End Moderno
 
