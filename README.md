@@ -21,7 +21,7 @@ Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com T
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="48" height="48">
 
 </div>
-
+PHP | Java | Springboot | SQL Server | PostGree | Mysql
 ### Front-end  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="48" height="48">
@@ -31,8 +31,7 @@ Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com T
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="48" height="48">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48">
 </div>
-- HTML, CSS, JavaScript  
-- React + TypeScript  
+HTML | CSS | React | TypeScript | Bootstrap | Tailwind CSS  
 
 ### Outros  
 - Git & GitHub  
