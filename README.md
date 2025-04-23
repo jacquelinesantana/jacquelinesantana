@@ -35,6 +35,13 @@ PHP | Java | Springboot | SQL Server | PostGree | Mysql
 HTML | CSS | React | TypeScript | Bootstrap | Tailwind CSS  
 
 ### Outros  
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="48" height="48">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="48" height="48" style="background-color:white">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="48" height="48">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="48" height="48">
+</div>
 - Git & GitHub  
 - Docker  
 - CI/CD básico  
