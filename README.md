@@ -57,7 +57,7 @@ Git & GitHub | AWS | Docker | Metodologias Ágeis (Scrum) | Trello e outras ferr
 
 ### Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelinesantana&layout=donut)](https://github.com/jacquelinesantana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelinesantana&layout=donut&theme=dracula)](https://github.com/jacquelinesantana/github-readme-stats)
 ---
 
 ## 📫 Como me encontrar:
