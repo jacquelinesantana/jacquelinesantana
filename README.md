@@ -3,7 +3,7 @@
 # 👋 Olá! Eu sou Jacqueline Hernandes
 ### Backend Developer | PHP & Java | Full-Stack com Front-End Moderno
 
-💡 Desenvolvedor back-end com foco em performance, segurança e boas práticas.  
+💡 Desenvolvedora back-end com foco em performance, segurança e boas práticas.  
 Tenho experiência sólida com PHP e Java, além de bancos de dados relacionais (MySQL, PostgreSQL).  
 Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com TypeScript.
 
