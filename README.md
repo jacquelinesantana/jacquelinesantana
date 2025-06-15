@@ -21,7 +21,7 @@ Também domino tecnologias de front-end como HTML, CSS, JavaScript e React com T
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="48" height="48">
 
 </div>
-PHP | Java | Springboot | SQL Server | PostGree | Mysql
+PHP | Java | Springboot | SQL Server | PostGree | Mysql | Python
 
 ### Front-end  
 <div>
